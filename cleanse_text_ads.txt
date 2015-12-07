@@ -1,0 +1,662 @@
+
+Hibernate	  TIME 
+Spring	  TIME 
+Web Services	  TIME 
+Core Java	 3. TIME 
+Design Patterns	  TIME 
+UML design	 3. TIME 
+Build Tools (Maven/Ant)	 3. TIME 
+Others if any specify [Application Servers, IDE, Code Quality Tools
+etc.]
+Apache Tomcat 6.0/ Web Sphere Application Server
+ 	 Apache,Tomcat=3. TIME 
+Niranjan Syamala                                                        
+Email:  	 EMAIL 	
+Mobile:   (+91) MOBILE 	                                             
+Objective:  To Perceive a challenging carrier though which I can excel
+my organization and myself.
+Professional Summary:
+I have 3. TIME s of professional experience in Java Development
+Currently working as Software Developer at Oracle India Pvt. Ltd
+Successful hands on experience in project implementation in the TELECOM
+domain and E-Commerce domain.
+Sound knowledge in Core Java, IBM Rational Clear case, HTML, JSP, Java
+Script and 
+Spring, Hibernate and REST framework.
+Worked as a Java Developer in Broadband OSS applications at TCS in
+Planning, Coordinating and Implementing Applications across a range of
+systems and environments using the Waterfall model and agile software
+Methodologies.
+Worked as lead player in project while using IBM Rational Clear-case
+with JAVA.
+Worked as a Configuration Manager and actively involved in Telecom TMF
+814 Product delivery related activities. 
+Educational Qualifications
+Master of Technology in V.L.S.I (2009-2011) with an aggregate of 82% 
+B.Tech (Electronics) (2004-2008) with an aggregate of 67%
+Board of Intermediate Education (2002-2004) with an aggregate of 83.6%
+Secondary School Of Education (2002) with an aggregate of 83.5%
+Technical  Skils:
+Core Java
+Servlets and JSPs 
+SQL
+HTML
+JavaScript
+Software Tools:
+IBM Rational Clear case Version Control
+Perforce
+Databases: 
+Objectivity 10.2
+SQL
+Oracle
+Operating Systems: 
+Windows
+HP – Itanium
+SUSE - Linux
+Technology:
+Below is a list of important IDE, Tools and languages that I
+have worked with.
+IDE	              Tools	               Language
+Eclipse, IntelliJ	IBM Rational Clearcase Version Control, Perforce
+Java
+Career Profile:
+Dates	                Organization	Designation
+March 2014 – till date	Oracle India Pvt Ltd	Software Developer
+Jan 30th, 2012 – March 2014	                          TCS	Assistant
+Systems Engineer
+Project 2:
+Product Name	Oracle Commerce Suite
+Period			March 2014 to till date
+Role			Software Developer
+Tech/Tools		Java/J2EE, Spring, Hibernate, MsSql
+Description		Oracle Commerce enables selling experiences that drive
+clicks and conversions for the world’s biggest and best brands. The
+solution enables businesses selling online to deliver a consistent,
+relevant, and personalized cross-channel buying experience for buyers.
+The Oracle Commerce Solution includes the Oracle Commerce Platform and
+Oracle Commerce Merchandising capabilities for creating and defining the
+sites and content that drives customer experiences. These capabilities
+include creating and managing multi-site and multichannel
+infrastructures, management of the product catalog, web content
+creation, collection of session data, pricing and promotions, processing
+of transactions, management of customer profiles and segments, and the
+creation of personalization strategies.  
+Responsibility    1)	Writing the technical specification document as per
+the requirements..
+2)	Implementation of the designed solutions.
+.      3)	Writing up the unit test cases.
+4)	Bug Fixing and providing assistance to the customers.
+5)	Being an agile team member actively participating in sprint
+activities.
+Project 1:
+Product Name	TMF (Tele Management Forum)
+Customer		Ericsson Telecom
+Period			Jan, 2012  to March 2014
+Role			Team Member
+Tech/Tools		Core Java, Eclipse and IBM Rational Cleasecase Version
+Control
+Description		TMF it is a product based core software for telecom
+operators.
+TMF uses MTNM standards supported by CISCO, Huawei and many more Telecom
+Giants.	All the Telecom groups should fallow these MTNM standards to
+implement 		their own product 
+Development		
+TMF is operated as the North bound interface while managing the Network
+elements like EMS and NMS. TMF is used as the operator standing on top
+of the network through which we can send the various data signals from
+one EMS to other EMS which is managed by one single NMS. TMF is having
+various development sub applications. The main Work we put in is WSON
+Management this management deals with how a network will route the data
+depending on the data rates for a particular end user.
+For Example 
+Customer A wants 5 MBPS speed on Weekdays and 10 MBPS on Weekends.
+Customer B wants 10 MBPS speed on Weekdays and 5 MBPS on Weekends.
+Then we should be in a position to provide them such facilities of data
+rates with their requirement. We have developed our application in TMF
+such away which should provide the flexibility of choosing the data
+rates and data plans. This leads to optimizing the Bandwidth of the
+optical cables used in communication.
+Responsibility    1)	Requirement Analysis, Development, Regression
+testing.
+.     2)	Working with each team member in case of technical or
+functional issues in each 			phase of task execution. Frequent
+Interaction with the on-site team for requirement 			understanding
+Achievement Summary: 
+1.	I was awarded with “Star of the Month” TCS (2013) because of the
+commitment showed.
+2.	Due to my ability to handle multiple works I have been requested to
+support IBM Rational Clear case version control critical issues of
+another project in Ericsson account.
+Personal Details: 
+Date of Birth	15/04/1987	
+Nationality	Indian
+Sex	Male
+Marital status	Married
+Current Address and phone no	Flat No. 304, Lakshmi Priya Colony,
+Manikonda
+Date of joining	Jan 2012
+Designation	Software Developer
+I hereby declare that all the information mentioned above is true
+to the best of my knowledge
+(Niranjan Syamala)
+Page   PAGE  1  of   NUMPAGES \*Arabic  4 
+
+My current CTC is 17 LPA.  and I am expecting 25 LPA. 
+My notice period is 1 month.
+Tarun Agrawal
+#1308 AGATE My Home Jewel, Madinaguda, Hyderabad 500549
+Contact:  MOBILE ; E-Mail:  EMAIL ; DOB: 11th
+August, 1984
+PRINCIPAL SOFTWARE ENGINEER 
+PROFILE
+Competent and result oriented professional offering 7. TIME s of
+sterling experience in product development currently serving as
+Principal Software Engineer with PegaSystems Worldwide Pvt Ltd, India.
+Certified Scrum Master and currently playing role of the same in the
+team.
+Excellent exposure in designing and implementing multi-threading
+solutions.
+Excellent exposure in designing and implementing security features such
+as URL tempering, CSRF, Cross Site Scripting etc. 
+Excellent exposure in multi tenancy development and analysis.  
+Excellent Exposure in designing and implementing caches for efficient
+processing.
+Excellent Exposure on performance analysis and finding bottlenecks.  
+Exposure on distributed technology such as Hazelcast, EHCache etc.
+Received Employee Achievement Award for outstanding contribution for
+PRPC product.
+Received Pega Innovation Award for contributing toward new product ideas
+and build POC for the same.
+Received coveted R.I.S.E (Reorganization of Individual Superior Effort)
+award for tremendous effort and contribution in WDA (Wholesale Demand
+Accounting) project.
+Received Best Performance award for extraordinary performance in
+Technical Training Program. 
+Received SPOT award for dedication and contribution for Payments
+Director Monitoring Tool.
+Sun certified Java programmer with 95%.
+A team player with excellent interpersonal and communication skills
+with an ability to work under high pressure deadlines.
+TECHNICAL SKILLS
+PROFESSIONAL EXPERIENCE
+Pegasystems Worldwide Pvt Ltd                                           
+since Sept ‘2011
+Pegasystems offers PRPC platform and I have worked various areas of PRPC
+it includes Security, Performance and Multi tenancy. Following are some
+highlights.  
+Worked with on improving performance analysis of existing product
+feature and removing bottlenecks. 
+Designed and implemented URL tempering security feature by providing
+white listing of parameters. 
+Designed and implemented CSRF mitigation. 
+Designed and implemented PRPC multi-threading processing. 
+Re-design existing product engine caches to support multi-tenancy. 
+Designed and implemented cluster wide locking utility using Hazelcast. 
+HSBC Technology Services                                                
+since June ‘2007
+Senior Software Engineer
+Project Exposures
+IBM Payments Directors: The IBM Payments Director (IPD) suite
+facilitates the real-time, transaction-based processing of payments with
+all the services to support the presentment and settlement cycle. This
+is underpinned by a robust business rules engine that enables a rapid
+response to any business continuity threat to the settlement process and
+supports real-time integration with fraud applications. 
+HSBC North America has customized IPD for its requirements and deployed
+it to demise existing Check Processing Control System.
+Project Title	IPD(IBM Payments Director)
+Client	HSBC BANK, North America
+Technology	Java, Linux, Mainframe, XML
+Role		Customization and enhancement.
+Team Size	11 
+Responsibility	Customization of the product to meet HSBC specific
+needs.
+Unit testing.
+Design and developed monitoring tool for effective monitoring of the
+system.
+Design and developed interfaces to communicate with other check
+processing and fraud systems.
+Project Title	Remote Desktop Capture (RDC)
+Client	HSBC BANK, North America	
+Technology	Java, Dot Net, Windows Server
+Role	Requirement gathering and analysis, Development, Testing and
+Quality Management.
+Team Size	4
+Description	Remote Desktop Capture (RDC) product allows retail and
+corporate customers to send check images and supporting data
+electronically to HSBC Bank. 
+Responsibility	Design
+Coding.
+Unit Testing 
+Preparing environment for unit-testing. 
+Preparing Test plan 
+Run the IST files and verify the results
+Project Title	Deposit Servicing System (DSV)
+Client	HSBC BANK, North America.
+Technology	Java, Mainframe, MQ series.
+Role	Requirement gathering and analysis, Development, Testing and
+Quality Management.
+Team Size	3
+Description	The Deposits Servicing System (DSV) supports the creation
+and maintenance of HSBC Global Payments and Cash Management’s
+wholesale demand deposit account portfolio on the Wholesale Demand
+Deposit System (WDA).  As such, DSV provides Commercial customer setup,
+Account opening, maintenance and servicing, Globalization (e.g.,
+grouping of accounts for pricing, interest, limits and reserves),
+Transfer relationships (e.g., sweep & concentration), Notional Netting
+relationships, Back value transaction entry and 
+General inquiry.
+Responsibility	Requirement gathering. Developed requirement
+understanding document and prototype to capture all functional
+requirements.
+Developed UML diagrams to capture application’s high and low level
+design.
+Code development.
+Developed cache service to maintain less frequently data at server and
+also developed a scheduler program which invokes scheduled cache
+services at configured time.
+Complete end to testing with Mainframe programs. 
+Software Configuration Management.
+Project Title	Client Servicing System (CSV)
+Client	HSBC BANK, North America.
+Technology	Java, Mainframe, MQ.
+Role	Requirement gathering and analysis, Development, Testing and
+Quality Management.
+Team Size	3
+Description	The Client Servicing System (CSV), web based application, is
+a front end agent to the Deposits Servicing System (DSV) which is used
+by HSBC Global Payments and Cash Management to create and maintain WDA
+accounts on the Wholesale Demand Deposit System (WDA). As such, CSV
+provides the necessary work flow management, input forms and approval
+methods automating the set up of new customers and accounts onto WDA.
+Responsibility	Requirement gathering. Developed prototype to capture all
+functional requirement.
+Developed UML diagrams to capture application’s high and low level
+design.
+Code development.
+Developed custom tag library to reduce redundancy and improve
+productivity.
+Complete end to testing with Mainframe program. 
+Software Configuration Management.
+Project Title	Management Information Reporting System (MIR)
+Client	HSBC BANK, North America.
+Technology	Java
+Role	Requirement Development, Testing and Quality Management.
+Team Size	3
+Description	Management Information Reporting System is integrated WDA
+product to generate
+reports for business and customers.
+Responsibility	Code development.
+Preparing Test plan 
+Reviewing peer codes and UTP’s
+EDUCATIONAL AND PROFESSIONAL CREDENTIALS
+Bachelor of Engineering
+(Computer Science) 2007 with 72%
+Devi Ahilya
+Vishvidhalaya, Indore
+XIIth – 2002 with 84%
+Govt Boys. H.S.S., MP Board
+Xth – 2000 with 68%
+Sharda Vidya Niketan, MP Board
+
+s.v. surya Narayana Reddy
+E-Mail ID:  EMAIL 
+Phone:  MOBILE 
+PROFESSIONAL SUMMARY
+With more than  TIME s of IT experience in design, development and testing of Web based applications using object-oriented methodologies and application servers such as IBM Web Sphere. 
+Good Experience in Agriculture and Automobile Domain using Java, J2EE and J2EE design patterns like MVC, Factory, Abstract Factory, Builder, Prototype and Proxy.
+Expertise on Core Java, JSP/Servlet, Hibernate and Spring Frameworks, JavaScript, XML, DB2, MYSQL SERVER 5.0 Databases.
+Good exposure on MVC patterns in web architecture.
+Strong exposure of complete project development life cycle developing expertise including designing/modeling, programming/coding of server side components.
+Strong skills include J2EE Specification, J2EE Design Patterns, Hibernate, XML and JUnit Framework.  
+Experience with Web Sphere, Tomcat, Eclipse, RAD7.5, Net Beans, and Rational Rose, and backend MSSQL Server, DB2 database accessing using JDBC.
+Hands on experience with database design, entity relationship, and database analysis/programming. Experienced in writing SQL Queries, Stored Procedures etc. in DB2 and Oracle.
+Hands on experience on Mercurial and Star-team.
+Having the experience in unit testing and component testing.
+Have the experience in bug fixing.
+Ability to work independently with minimum supervision in a team environment.
+Working in Agile for more than  TIME .
+Hands on experience in ATDD using cucumber.
+QUALIFICATIONS
+Earned Bachelor of Technology, from Pragati Engineering College in year 2010.
+Earned Post Graduate Diploma from CDAC ACTS, Pune in year 2011.
+Ability to solve analytical problems, and ease to learn new concepts.
+EXPERIENCE
+Working as Software Engineer for John Deere India private ltd, Pune from February 2011 to Till Date.
+TECHNICAL SKILLS
+Programming Languages:
+Java, J2EE
+GUI:
+HTML, JSP 
+RDBMS:
+MYSQL, DB2
+Operating Systems:  
+Windows XP,98,2000, Windows 7
+ORM Technologies
+Hibernate 3.0, JPA
+Web/Application Servers
+Apache Tomcat 6.0, Web Sphere 6.1, Web Sphere 7.0 , JBOSS
+Framework:
+Struts 1.2, Web Service , REST Web Service , Spring 3.0
+IDE’s
+Eclipse 3.0, RAD 7.5
+PROFESSIONAL EXPERIENCE SUMMARY
+John Deere private ltd, Pune	February 2011 ~ Till Date
+Project: JDLink ( February -2011- Till date)
+Description: The JDLink™ equipment management solution is a telematic system designed to remotely connect owners and managers to their equipment, providing alerts and machine information including location, utilization, performance, and maintenance data to manage where and how equipment is being used.
+Responsibilities:
+Analysis, Estimation and design of Enhancement.
+Understanding business and involve in process map analysis with Team.
+Involved in writing the technical documentation by understanding the process
+Preparing systematic Plan to investigate problem. 
+Requirement Gathering.
+Coding, Testing and Deployment.
+Responsible for the implementation and unit testing.
+Responsible for integration of modules and bug fixing.
+Implement ATDD using cucumber.
+Environment: Deere Framework, RAD 7.5, Web Sphere 7.0, DB2, JAVA, JSP, Servlet, Spring AOP & IOC, Hibernate, JUnit, JMS.
+PERSONNEL DETAILS  
+Fathers Name:		Subba Reddy
+Date of Birth:		22-04-1989
+Place of birth:		kutukuluru
+Languages Known:	English, Hindi & Telugu
+Confidential	Page 2 of 2	
+Confidential	Page 1 of 2
+ Ankit Agrawal				                     	Contact: (+91) MOBILE 
+EMAIL 
+HYPERLINK "mailto: EMAIL " \h   
+Objective
+To secure a position in the Software Technology Industry to improve my
+skills and abilities that offers professional growth while being
+resourceful, innovative and flexible.
+Technical Skills
+Languages                  	: Java, C
+Framework		: Hibernate
+IDE		        	: Eclipse
+Appliaction Server	: JBoss AS, Tomcat
+Projects Undertaken
+1)	Organization 	: Newgen
+Domain 	: Enterprise Content Management  
+Project Name	: Newgen Enterprise Mobility Framework
+Description	: Framework to develop Server-Client Application for Mobile
+Devices
+Skills		: Java, Hibernate Framework, JUnit framework, ANT, XML, JSON
+2)	Organization 	: Newgen
+Domain 	: Enterprise Content Management  
+Project Name	: ZapIn
+Description	: Configurable Form-based Application for capturing Real
+World Data
+SDK		: Android
+2)	Organization 	: Newgen
+Domain 	: Research & Development
+Description	: Learn and Train Organization for Tools and Technology.
+Tools		: Sonar, JUnit
+3)	Institution	: IIIT, Hyderabad
+Project Name	: Machine Translation
+Description	: Preparing rules for Word Sense Disambiguation and
+Generating Hindi glosses     for Word Net             
+Language	:  C, CLIPS, XML
+Qualification
+Bachelor of Technology (2009-2013)
+College 	: Motilal Nehru National Institute of Technology, Allahabad
+Branch		: Information Technology
+CPI	             : 8.2
+All India Senior School Certificate Examination (2008)
+School		: Saraswati Sen. Sec. Vidya Mandir, Deoria, UP
+Percentage	: 75.4%
+All India Secondary School Examination (2006)
+School               : Nav Jeevan Mission School, Kasia, UP
+Percentage	: 86%
+Achievements
+Rewarded Excellence Award at Organization Level in Newgen for Quarter
+(Oct-Dec’ 2014)  
+Event Co-ordinator of Softathlon (Coding Contest) in Avishkar’12 –
+Technical Festival MNNIT Allahabad.
+Hobbies 
+Watching Movies
+Playing Games
+Strength
+Adaptive, Quick-learner.
+Determined, focused person.
+Teamwork, Self-motivated.
+Personal Details
+Father’s Name    : Mr. Rajesh Agrawal
+Mother’s Name   : Mrs. Renu Agrawal
+Date of Birth       : 05/07/1991
+Address               : Sant Vinoba Road, New colony, Deoria, UP-274001
+Contact No.         : MOBILE 
+The information provided above is correct to the best of my knowledge
+and belief.
+Place – Noida
+Date – 21st April 2014								(Ankit)
+
+Sulabh Bajaj
+E-mail:  EMAIL 
+Contact No-  MOBILE 
+SYNOPSIS
+3+ yearsof experience in IT Industry. 
+Presently associated with Edifecs, as a Software Engineer.
+Hands on experience in implementation of multiple Cloud solutions.
+ITIL Service Management (ServiceNow) process workflow automation and orchestration.
+Technical Skills
+Languages
+C, C++, java
+Databases
+MySQL, PostgresQl,SQL server
+Framework
+Spring
+Build Management   
+Ant,maven
+Web Development   
+JSP, HTML5, Java script, JQuery/AJAX, Ext JS
+Cloud solutions
+AWS, 
+service management(ServiceNow)
+IDE
+Eclipse
+ORM
+Hibernate
+CORE COMPETENCIES
+Comprehensive knowledge of software products and its operating systems 
+Knowledge of business process and management with strong customer service skills 
+Attention to detail with sound oral and written communication skills 
+Possess sound decision making skills and has the ability to take initiatives 
+Excellent team player with good negotiation and leadership skills 
+Target oriented and has the ability to handle multiple tasks.
+Ability to adapt to 24*7 work environment.
+Roles and Responsibilities:-
+Java Code development, Web development and testing  in various modules of Health Information Exchange and Cloud Eco System Hub 
+Deliver technical sessions to various managers and colleagues.
+Writing code specific to Amazon Integration with Eco System Hub.
+Worked on the TMobile, Rwest, AMP specific implementation of Eco System Hub. 
+Handling documentation of the Cloud Eco system Hub. 
+Continuously improve troubleshooting skills, product expertise, and knowledge on related technical topics. 
+Meet all quality and productivity performance goal.
+Projects undertaken
+Health Information Exchange:
+Seamless sharing of clinical data to improve care and gain valuable insight  across partner ecosystem
+Through a solution that provides you with actionable intelligence for early intervention on key clinical and financial risk markers. Edifecs Collaboration Solution leverages your existing trading infrastructure, then observes, validates and links your incoming clinical and administrative data in near real-time. What gets created? Comprehensive, concurrent, transparent, customer-centric records with a single context of care.
+Providing one single interface to view and operate entire clinical data: different Edi files like hl7, ccd, x12 file are mapped to a database from where data is fetched and displayed onto the User interface.
+Implementing real time graphs: generating real time information of an individual including the lab reports and basic vitals.
+Implementing Restful web service:service manager which is in house wrapper on tomcat enables restful service calls.
+The project requires to the core knowledge of spring core, SQL, Maven, Ext JS MVC, Java Script, AJAX/JQuery, hibernate,Junit.
+Duration – 9 months.
+Team Size – 10
+Ecosystem Hub Solution :
+Infosys Cloud Ecosystem Hub enables your enterprise to build, manage and govern a unified hybrid cloud environment.
+It helps you rapidly create, adopt and govern cloud services across your ecosystem. As a result, you can accelerate time-to-market of cloud services by up to 40%, improve productivity by up to 20% and achieve cost savings of up to 30%
+Provision IT infrastructure and platforms in a matter of minutes
+Easily subscribe to enterprise cloud services through a unified self-service catalogue.
+Integration of Ecosystem Hub with AWS : Amazon Web Services (abbreviated AWS) is a collection of remote computing services (also called web services) that together make up a cloud computing platform, offered over the Internet by Amazon.com. The most central and well-known of these services are Amazon EC2 and Amazon S3. The service is advertised as providing a large computing capacity (potentially many servers) much faster and cheaper than building a physical server farm.
+Implementing and automating ITIL service Management (serviceNow):ServiceNow is the enterprise IT cloud company to transform IT by automating and managing IT service relationships across the global enterprise.Deploying services offered by ServiceNow to create a single system of record for IT and automate manual tasks, standardize processes, and consolidate legacy systems. It includes raising tickets (Incident Management), Service Request Management, Change Request Management, Problem management.
+Implementing Restful web service: Representational State Transfer (REST) is an architectural style consisting of a coordinated set of constraints applied to components, connectors, and data elements, within a distributed hypermedia system to achieve desired architectural properties. REST ignores the details of component implementation and protocol syntax in order to focus on the roles of components, the constraints upon their interaction with other components, and their interpretation of significant data elements. Transforming services provided by Eco System hub to be used by the Client. AMP offers Two Kind of Application some of which are in BMC remedy another ITSM and some In ServiceNow the REST service helps Synchronisation of both.
+The project requires to the core knowledge of Amazon API, Springs MVC 3.0, SQL, Ant, JSP, Java Script, AJAX/JQuery, XML,ITSM(Service Now),JBPM.
+Duration –  TIME  9 month.
+Team Size – 7
+Automated Testing for business Tier and Persistence Tier of JavaEE application
+Undertaken automated testing project during internship program at Infosys.
+It provides the faculty of Infosys Limited to test Business Tier and Persistence Tier module of a trainee automatically.
+It is accustomed to test up to 5 projects submitted by trainees simultaneously
+Java, JPA, JSF, JUNIT tool  were the building blocks of the project
+Duration – 5 months.
+Team Size – 5
+Text Editor
+Undertaken Text editor project during graduation period.
+Text editor used java concepts and is much like notepad.
+It is accustomed to write and manipulate text.
+Duration –1.5 months.
+Team Size – 2
+Professional Qualification: - 
+Qualifications
+College / University
+Year
+%
+B.Tech (Computer Science)
+Punjab University
+2012
+74.38
+XII
+Bal niketan senior secondary school
+(CBSE)
+2008
+73.4(PCM 81)
+X
+Chaman vatika residential school (CBSE)
+2006
+81
+Certifications & training
+Successfully completed internship at Infosys Limited with a CGPA of 4.6 out of 5.
+Completed training in CLOUD Services (Cloud Ecosystem Hub) from Infosys Limited.
+Successfully completed 6 weeks training at Oops Info Solutions, Sector34,Chandigarh in Java Core(25th May 2009- 1st July 2009)
+Microsoft Certified in HTML5, javascript and CSS(2013).
+Achievements and Co-Curricular
+Stood First in street play at Punjab Engineering College Fest.
+Stood First in street play at National Institute of Technology.
+Stood First in street play at Jalsa Youth festival.
+Stood First in Ad mad at Jalsa Youth festival.
+Stood Second in Street play at Indian Institute of Technology
+Active member of the Dramatics club of college
+Active Member of Dance and Music club of college
+Member of Core committee of college annual function
+Member of core committee college fest APRATIM-2011
+Secured 93 percentile in E-Litmus.
+Skills
+Sincere, workaholic, quick learner, decision making capabilities, leadership qualities, willing to take initiative and adaptive according to the environment or needs.
+Personal Information
+Father’s Name: Mr.  Ashok Bajaj
+Mother’s Name: Mrs. Monika Bajaj
+Date of Birth: Oct 30, 1990
+Nationality: Indian
+Address: #330, sector-8, Ambala City
+Languages Known: English, Hindi and Punjabi
+Reference:
+DATED: ------------		                                                     (Sulabh Bajaj)
+Pramod Bhargava
+Phone:  MOBILE                                                
+Ramki Towers, Gachibowli Email: EMAIL                      
+Hyderabad (A.P.), 500032
+SUMMARY OF QUALIFICATIONS
+Currently associated with Insideview India as a Software Engineer on
+J2EE Technologies.
+3. TIME s’ experience of developing software throughout lifecycle,
+from identifying requirements to QA/QC in product based companies. 
+Good technical skills in Java/J2EE development. SCJP Qualified. 
+Strong database concept, Good analytical, time management and
+problem-solving skills.
+I am motivated and enthusiastic by new challenges and tasks and take
+innovative approach to achieve success in projects
+OBJECTIVE: 
+To work in a progressive environment where I may engage my skills to its
+potential and gain the deepest insight into the process, thereby perform
+to the best. Also, to be a significant figure of performance for the
+team and the organization I am part of.
+TECHNICAL EXPERTISE
+Languages: Java/J2EE, C/C++
+Frameworks: Struts 2, Hibernate and Spring. 
+DBMS/RDBMS:  Oracle 10g, MS Access, My SQL, SQL-server
+Scripting Language: JavaScript, AJAX, JQuery, HTML, XML, XHTML, WML
+Web Servers: Apache Tomcat, JBOSS, Jetty
+Software/Tools: Eclipse, Net beans, Maven, Ant, Liqubase, AWS, Jenkins
+Certification: Sun Certified Java Programmer (SCJP).
+Others: Web Services, ActiveMQ, Scrum Based Development, Elastic search,
+Lucean, Data Structure, Data modeling.
+PROFESSIONAL EXPERIENCE
+InsideView India
+A pioneer in CRM Intelligence, InsideView provides a suite of software
+solutions for sales and marketing leaders that delivers critical
+intelligence directly into CRM
+SE                                                                      
+April 2013-PRESENT
+Project Undertaken
+Marketing Product: InsideView Lead EnrichTM lets you reduce the number
+of required web form fields—therefore improving conversion rates. New
+leads, from any source, are automatically enriched with data from the
+InsideView CRM Intelligence Platform as they are added to the database.
+Enriched leads can be scored and routed faster so your sales team can
+respond quickly. 
+Role: Creating new features in product from scratch. Enhancing existing
+functionality of product and integrating product with CRM’s
+Technology Used: Complete MVC Architecture with  Spring 3.1, Hibernate
+3.0 as ORM Tool, JSTL/JSP for view , ActiveMQ for message queues ,
+Velocity for sending mails , RESTful services for integrating with
+different CRM’s, Liqubase, MySQL as database, MAVEN for Deploys ,Jetty
+8.0,Junit,TESTNG,Elastic search for Querying large data
+Team size: 4
+Data Diagnostics Product: It’s in Development phase.
+Main focus of this Product is to identify data health and provide a
+better solution 
+Role: Developing all features from scratch 
+Team size: 3
+Technology Used: Complete MVC Architecture with  Spring 3.1, Hibernate
+3.0 as ORM Tool, JSTL/JSP for view , ActiveMQ for message queues ,
+Velocity for sending mails , RESTful services for integrating with
+different CRM’s, Liqubase, MySQL as database, MAVEN for Deploys ,Jetty
+8.0,Junit,TESTNG
+Impetus InfoTech India Pvt Ltd
+ASE/SE                                                                  
+July 2011-APRIL 2013
+Impetus offers a complete suite of Software Product Development and
+Technology R&D services.
+Project Undertaken
+BCBSNE/BCBST: These are clients of Connecture where we need to Upgrade
+Whole application from older versions to newer versions .Moreover we
+need to add new features according to client needs 
+Role:-Working in teams of 4 to 8 and changing product on basis of
+client’s requirements .In this I am working on upgrading product
+features and changing existing features according to client need.
+I have handled a complete module of Medicare and worked on other modules
+as well
+Technology Used:-Struts 2.1, Hibernate 3.0, Spring, Jasper, jquery,
+javascript 
+Other Projects
+Connecture Product development, Exemplar update, Game Wrapper
+Application, Content Management System, Video on demand, Data mining
+tools for CMS
+Certification/Other Achievements
+SCJP/OCJP certification 
+Winner of Hackathon 2014 in reinvention Category at insideview.
+Star of the months 4 times in row at impetus India.
+Our project “www.twistcontent.com” for Twist Mobiles was selected
+among Top 12 projects for e-summit at IIT – Powai.
+EDUCATION:
+MCA (Masters of Computer Applications)                                  
+2008 - 2011
+IIPS, DAVV Indore, M.P. 
+CGPA 9.53 Pointer out of 10 (10 is the highest)
+BCA (Bachelors Of Computer Applications)                                
+2005 - 2008
+IIPS, DAVV Indore, M.P.
+CGPA 9.22 Pointer out of 10 (10 is the highest)
+XII (PCM)                                                               
+2004 - 2005
+AECS, CBSE Board Indore, M.P. 
+Percentage: 71.2%
+X                                                                       
+2004 - 2005
+AECS, CBSE Board Indore, M.P. 
+Percentage: 72.4%
+Declaration
+I hereby declare that all the information provided by me in this is
+factual and correct to the best of my knowledge and belief.
+Date: 07/12/2014                                                        
+Place: Hyderabad
